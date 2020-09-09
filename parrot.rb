@@ -3,3 +3,4 @@
 
 def parrot(phrase = "Squawk!")
   puts "I can #{phrase}."
+end
